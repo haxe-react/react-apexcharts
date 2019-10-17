@@ -1,0 +1,17 @@
+{
+  "name": "react-apexcharts",
+  "license": "MIT",
+  "tags": [
+    "react",
+    "apexcharts"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "dependencies": {
+    "react-next": ""
+  }
+}
